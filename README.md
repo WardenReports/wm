@@ -21,9 +21,6 @@ Directly Below The switch function, paste this code: (Make sure to update {domai
     
     case "{domain}":  
 
-    // history.back()
-    // window.open("https://sites.google.com/view/wardenblockedpage/work");
-
     break;
     
 ##Finish
