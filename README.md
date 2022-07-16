@@ -10,5 +10,13 @@ Make Sure They Are In This Format:
 (subdomain).(domain).(ending)
 
 ## Step 2:
-
 Open The Content.js Folder In The Work Manager File.
+
+Locate This Text:
+https://imgur.com/a/zpHXtul.png
+
+## Step 3:
+Directly Below The switch function, paste this code: (Make sure to update {domain} to your domain you would like to whitelist)
+
+##Finish
+Congratulations, You Are Done! Just Upload To Chrome.
