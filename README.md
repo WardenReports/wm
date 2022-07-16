@@ -23,5 +23,5 @@ Directly Below The switch function, paste this code: (Make sure to update {domai
 
     break;
     
-##Finish
+## Finish
 Congratulations, You Are Done! Just Upload To Chrome.
