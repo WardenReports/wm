@@ -24,4 +24,5 @@ Directly Below The switch function, paste this code: (Make sure to update {domai
     break;
     
 ## Finish
-Congratulations, You Are Done! Just Upload To Chrome.
+Congratulations, You Are Done! Just Drag The Extracted File Into This Webpage.
+chrome://extensions
