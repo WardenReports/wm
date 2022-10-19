@@ -14,6 +14,4 @@ chrome.webRequest.onBeforeRequest.addListener(
     ["blocking"]
 )
 
-// var url = "https://serverguard.wixsite.com/boratheon"
-
-  chrome.runtime.setUninstallURL('https://serverguard.wixsite.com/boratheon')
+  chrome.runtime.setUninstallURL('https://serverguard.wixsite.com/boratheon/uninstalled')
