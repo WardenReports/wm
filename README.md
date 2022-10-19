@@ -21,3 +21,6 @@ Enter Websites In The "" Below That You Would Like To Allow Your Employees To Ac
 ## Finish
 Congratulations, You Are Done! Just Drag The Extracted File Into This Webpage.
 chrome://extensions
+
+
+### Do Not Edit Anything Below Line 7 Subject To The License Agreement.
