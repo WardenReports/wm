@@ -2,7 +2,7 @@
 var block = ["",""];
 
 //Enter Websites In The "" Below That You Would Like To Allow Your Employees To Access. Copy Paste ,"" To Add More Values
-var allow= ["google.com",""]
+var allow= ["",""]
 
 //DO NOT EDIT ANYTHING BELOW HERE. THIS CODE IS PROTECTED OUR LICENSE AGREEMENT.
 
