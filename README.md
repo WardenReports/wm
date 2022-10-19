@@ -1,5 +1,5 @@
 # Work Manager
-Work Manager is a Tool by Warden to Help Keep Your Employee's Work As Their Main Focus.
+Work Manager is a Tool by Boratheon to Help Keep Your Employee's Work As Their Main Focus.
 
 # How To Customize
 
@@ -13,15 +13,10 @@ Make Sure They Are In This Format:
 Open The Content.js Folder In The Work Manager File.
 
 Locate This Text:
-switch (window.location.hostname) {
-https://imgur.com/a/zpHXtul.png
+var allow= ["",""]
 
 ## Step 3:
-Directly Below The switch function, paste this code: (Make sure to update {domain} to your domain you would like to whitelist)
-    
-    case "{domain}":  
-
-    break;
+Enter Websites In The "" Below That You Would Like To Allow Your Employees To Access. Copy Paste ,"" To Add More Values
     
 ## Finish
 Congratulations, You Are Done! Just Drag The Extracted File Into This Webpage.
